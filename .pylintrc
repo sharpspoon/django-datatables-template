@@ -1,0 +1,18 @@
+[BASIC]
+max-line-length=120
+disable=
+    import-error,
+    fixme,
+    consider-using-f-string,
+    too-few-public-methods,
+    invalid-name,
+    duplicate-code
+
+good-names=
+    i,
+    e,
+    p,
+    logger
+[MASTER]
+ignore-paths=^src/.*$,
+             ^scripts/.*$,
