@@ -1,0 +1,12 @@
+
+    .employscan-button {
+      transition: all .2s ease;
+      border: none;
+      color: white;
+      background-color: #0056b3;
+      border-radius: 25px;  /* Makes the button rounded */
+    }
+    .employscan-button:hover {
+      background-color: #007BFF;
+      transform: scale(1.1);
+    }

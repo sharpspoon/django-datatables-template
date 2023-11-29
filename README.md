@@ -1,1 +1,2 @@
-# django-datatables-template
+# how to use
+`python manage.py runserver`
